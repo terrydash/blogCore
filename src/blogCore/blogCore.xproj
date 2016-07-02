@@ -14,6 +14,7 @@
   </PropertyGroup>
   <PropertyGroup>
     <SchemaVersion>2.0</SchemaVersion>
+    <ApplicationInsightsResourceId>/subscriptions/0309d579-8c97-4fcf-abb7-02b2412c12e8/resourcegroups/Default-ApplicationInsights-CentralUS/providers/microsoft.insights/components/blogCore</ApplicationInsightsResourceId>
   </PropertyGroup>
   <ItemGroup>
     <DnxInvisibleContent Include="bower.json" />
