@@ -1,4 +1,4 @@
-﻿body {
+﻿/*body {
     padding-top: 50px;
     padding-bottom: 20px;
 }
@@ -47,4 +47,8 @@ textarea {
   .carousel-caption {
     display: none
   }
-}
+}*/
+
+body {
+     margin-top: 75px;
+ }
